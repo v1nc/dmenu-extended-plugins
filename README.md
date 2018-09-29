@@ -9,6 +9,7 @@ List of dmenu-extended plugins I made for saving more time every day.
 - View meanings of words(in progress).
 
 #### Coming soon:
+- Preview of functionality.
 - Parse Books, Dates and full text descriptions.
 - List all results and directly open selected.
 - Open editable "priority pages" like stackoverflow directly if in results.
