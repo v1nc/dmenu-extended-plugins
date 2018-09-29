@@ -1,6 +1,6 @@
 {
     "plugin_gSearch": {
-        "url": "https://raw.githubusercontent.com/v1nc/dmenu-extended-plugins/master/plugin_gSearch.py",
+        "url": "http://raw.githubusercontent.com/v1nc/dmenu-extended-plugins/master/plugin_gSearch.py",
         "desc": "Search Google directly from dmenu. Copy relevant text parts to clipboard.",
         "sha1sum": "443f65a479309b0fe285ce630d9171e4778c5868",
         "sha256sum": "a01005a83f69df832099ede4c019768cc67391c7f8a1b29de15747ae1f9dd7a1",
