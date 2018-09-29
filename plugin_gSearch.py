@@ -9,7 +9,7 @@ RE_FILE = '(/[^/ ]*)+/[^/ ]+[.][^/\s.]+'
 RE_PATH = '(/[^/\s]*)+/[^/\s.]*'
 RE_MARSKS =['\".+\"', "\'.+\'",'\`.+\`', RE_FILE, RE_PATH]
 class extension(dmenu_extended.dmenu):
-	title = 'gmenu: '
+	title = 'gSearch: '
 	is_submenu = True
 	#find paths/filenames and maybe commands in a string.
 	def smart_copy(self,text):
