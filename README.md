@@ -1,7 +1,7 @@
 # dmenu-extended-plugins
 List of dmenu-extended plugins I made for saving more time every day.
 
-## gSearch:
+## gSearch(still in progress):
 ### Do real Google Search in your dmenu!
 - Answers questions like "how old is google" directly.
 - View listings like "install debian apache" directly.
